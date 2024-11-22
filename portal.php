@@ -47,7 +47,7 @@
                 <button type="submit" class="login-button">Ingresar</button>
             </div>
             <div class="no-cuenta">
-                <p>¿Aún no tienes cuenta? <a href="crear_cuenta.html" class="register-link" style="color: #093657;">crea una</a></p>
+                <p>¿Aún no tienes cuenta? <a href="crear_cuenta.php" class="register-link" style="color: #093657;">crea una</a></p>
             </div>
         </form>
     </div>
