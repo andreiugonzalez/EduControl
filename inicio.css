@@ -127,10 +127,6 @@ main h2 {
     color: #666;
 }
 
-.card :hover {
-    transform: scale(1.05);
-}
-
 
 /* Media query para pantallas pequeñas */
 
